@@ -70,7 +70,6 @@ public class Reactions {
             getEmoji("402027669614755842"), // Spriest
             getEmoji("404116063169675275") // X_
     };
-    };
 
     /**
      * Get an emoji from it's emote ID via JDA
