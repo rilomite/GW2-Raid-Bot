@@ -12,46 +12,64 @@ public class Reactions {
      * List of reactions representing classes
      */
     static String[] specs = {
-            "Dragonhunter", //387295988282556417
-            "Firebrand", //387296167958151169
-            "Herald", //387296053659172869
-            "Renegade", //387296192381321226
-            "Berserker", //387296013947502592
-            "Spellbreaker", //387296212421836800
-            "Scrapper", //387296081823662081
-            "Holosmith", //387296176770121738
-            "Druid", // 387296044716916738
-            "Soulbeast", //387296205488521216
-            "Daredevil", //387296029533274113
-            "Deadeye", //387296159716081664
-            "Weaver", //387296219988361218
-            "Tempest", //387296089340117002
-            "Chronomancer", //387296021710897152
-            "Mirage", //387296184114610185
-            "Reaper", //387296061997318146
-            "Scourge" //387296198928891905
+            "Affliction", //402027668461191168
+            "Arcane", //402027668213596171
+            "ArmsWarrior", //402027670738698240
+            "BearTank", //402027670528851969
+            "Demonology", //402027670172467201
+            "Destro", //402027670180724766
+            "Discpriest", //402027669094531072
+            "Elesham", //402027669581070346
+            "Enhsham", // 402027670084255744
+            "FireMage", //4020276701514956806
+            "Frostmage", //402027670021472256
+            "Furywarrior", //402027668804993035
+            "Holypriest", //402027669073690625
+            "Hunterbm", //402027669035679746
+            "Huntermm", //402027669207646218
+            "Huntersv", //402027669253914624
+            "kitty", //402027670529114122
+            "Moonkin", //402027670193569794
+            "Pallyholy", //402027669358772224
+            "Pallyprot", //402027669539127326
+            "Pallyret", //402027669547384832
+            "Protwarrior", //402027670780772352
+            "Rdruid", //402027669585264640
+            "Rogue", //402027669279211522
+            "Rsham", //402027669400584205
+            "Spriest", //402027669614755842
+            "X_", //404116063169675275
     };
 
     static Emote[] reactions = {
-            getEmoji("387295988282556417"), // Dragonhunter
-            getEmoji("387296167958151169"), // Firebrand
-            getEmoji("387296053659172869"), // Herald
-            getEmoji("387296192381321226"), // Renegade
-            getEmoji("387296013947502592"), // Berserker
-            getEmoji("387296212421836800"), // Spellbreaker
-            getEmoji("387296081823662081"), // Scrapper
-            getEmoji("387296176770121738"), // Holosmith
-            getEmoji("387296044716916738"), // Druid
-            getEmoji("387296205488521216"), // Soulbeast
-            getEmoji("387296029533274113"), // Daredevil
-            getEmoji("387296159716081664"), // Deadeye
-            getEmoji("387296219988361218"), // Weaver
-            getEmoji("387296089340117002"), // Tempest
-            getEmoji("387296021710897152"), // Chronomancer
-            getEmoji("387296184114610185"), // Mirage
-            getEmoji("387296061997318146"), // Reaper
-            getEmoji("387296198928891905"), // Scourge
-            getEmoji("387346852867211274") // X_
+            getEmoji("402027668461191168"), // Affliction
+            getEmoji("402027668213596171"), // Arcane
+            getEmoji("402027670738698240"), // ArmsWarrior
+            getEmoji("402027670528851969"), // BearTank
+            getEmoji("402027670172467201"), // Demonology
+            getEmoji("402027670180724766"), // Destro
+            getEmoji("402027669094531072"), // Discpriest
+            getEmoji("402027669581070346"), // EleSham
+            getEmoji("402027670084255744"), // EnhSham
+            getEmoji("402027670151495680"), // Fire
+            getEmoji("4020276700214722563"), // Frostmage
+            getEmoji("402027668804993035"), // FuryWarrior
+            getEmoji("402027669073690625"), // HolyPriest
+            getEmoji("402027669035679746"), // HunterBM
+            getEmoji("402027669207646218"), // HunterMM
+            getEmoji("402027669253914624"), // HunterSV
+            getEmoji("402027670529114122"), // Kitty
+            getEmoji("402027670193569794"), // Moonkin
+            getEmoji("402027669358772224"), // PallyHoly
+            getEmoji("402027669539127326"), // PallyProt
+            getEmoji("402027669547384832"), // PallyRet
+            getEmoji("402027670780772352"), // ProtWarrior
+            getEmoji("402027669585264640"), // Rdruid
+            getEmoji("402027669279211522"), // Rogue
+            getEmoji("402027669400584205"), // Rsham
+            getEmoji("402027669614755842"), // Spriest
+            getEmoji("404116063169675275") // X_
+    };
     };
 
     /**
